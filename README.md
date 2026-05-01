@@ -46,3 +46,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="38"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="38"/>
 </p>
+
+
+<details>
+  <summary>✨ Click to Open My Modern Profile Section</summary>
+
+<br>
+
+<div align="center">
+
+## 🚀 Welcome to My Developer Zone
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+---
+
+### 💡 Current Focus
+- ⚡ Building modern web apps
+- ⚛️ React + TypeScript development
+- 🌐 Full Stack MERN projects
+
+---
+
+### 🧠 Skills Snapshot
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+### 🎯 Goals
+- 🚀 Become Full Stack Developer
+- 🧩 Contribute to Open Source
+- 💼 Build real-world SaaS projects
+
+</div>
+
+</details>
